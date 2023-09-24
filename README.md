@@ -6,16 +6,19 @@
 | 🐤 | 632115503 | Jeongmin Kim | [whatsuplinlin](https://github.com/whatsuplinlin) |
 
 ```
-Copy-Catch is a web application to check plagiarism on online exams that are conducted on the KC Moodle. 
-KC Moodle is a free and open-source learning management system that is used for blended learning, distance education, 
-flipped classroom, and other online learning projects at Chiang Mai University.  
+Copy-Catch is a web application to check plagiarism on online exams that are conducted on the 
+KC Moodle. KC Moodle is a free and open-source learning management system that is used for 
+blended learning, distance education, flipped classroom, and other online learning projects 
+at Chiang Mai University.  
 
-The system checks plagiarism among students’ answers, also with Google search. 
-At the end, it shows the results indicated as percentage of similarity. 
-After examining the results, professors can send an email to students to inform them their answer have been considered plagiarism.
+The system checks plagiarism among students’ answers, also with Google search. At the end, 
+it shows the results indicated as percentage of similarity. After examining the results, 
+professors can send an email to students to inform them their answer have been considered 
+plagiarism.
 
-By using Copy-Catch system, professors will not have difficulties with detecting plagiarism from lots of answer files and 
-be able to mark exams more conveniently regarding the problem of plagiarism.  
+By using Copy-Catch system, professors will not have difficulties with detecting plagiarism 
+from lots of answer files and be able to mark exams more conveniently regarding the problem of 
+plagiarism.  
 ```
 
 ## Project setup
